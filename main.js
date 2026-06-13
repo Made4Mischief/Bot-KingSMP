@@ -38,7 +38,7 @@ function start_bot() {
         console.log('Logged in')
 
 
-        if (!config.registered) {
+        if (config.registered == false) {
             setTimeout(() => {
                 bot.chat(`/dk ${config.botPassword}`)
                 config.registered = true
