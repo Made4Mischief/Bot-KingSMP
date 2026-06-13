@@ -158,6 +158,9 @@ Sau khi bot vào game thành công và thực hiện lệnh TPA, yêu cầu dị
 # 🎮 Cách Sử Dụng Bot
 
 Sau khi bot đăng nhập thành công:
+ví dụ:
+![vd1](Screenshot 2026-06-12 201652.png)
+
 
 1. Chờ khoảng **5 giây**.
 2. Trong Terminal nhập:
@@ -165,6 +168,9 @@ Sau khi bot đăng nhập thành công:
 ```text
 menu
 ```
+
+ví dụ vào sảnh kingsmp thành công
+![vd2](Screenshot 2026-06-12 201830.png)
 
 ⚠️ Trong quá trình mở menu, bot có thể bị văng khá thường xuyên.
 
@@ -184,6 +190,7 @@ cho đến khi vào được menu thành công.
 ## ✈️ Gửi TPA
 
 Sau khi bot đã vào menu thành công:
+
 
 ```text
 tpa
@@ -215,6 +222,7 @@ Bot sẽ tự động gửi TPA đến:
 * 👤 Nên sử dụng tài khoản phụ làm bot.
 * 🎯 Bot được cấu hình riêng cho **KingMC**.
 * ⚠️ Khi sử dụng ở server khác, một số tính năng có thể không hoạt động đúng hoặc hoạt động ngoài mong muốn.
+* bot phải được setting trong KingSMP như sau: menu xác nhận lệnh tpa, tắt chat tổng KingMC
 
 ---
 
