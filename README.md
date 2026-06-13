@@ -159,7 +159,7 @@ Sau khi bot vào game thành công và thực hiện lệnh TPA, yêu cầu dị
 
 Sau khi bot đăng nhập thành công:
 ví dụ:
-![vd1](Screenshot 2026-06-12 201652.png)
+![vd1](dnthanhcong.png)
 
 
 1. Chờ khoảng **5 giây**.
@@ -170,7 +170,7 @@ menu
 ```
 
 ví dụ vào sảnh kingsmp thành công
-![vd2](Screenshot 2026-06-12 201830.png)
+![vd2](vaoKingSMPthanhcong.png)
 
 ⚠️ Trong quá trình mở menu, bot có thể bị văng khá thường xuyên.
 
